@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'vue-pwa-caches';
 var urlsToCache = [
-  '/kazukihozumi.github.io/vue-pwa/',
+  '/vue-pwa/'
 ];
 
 // インストール処理
