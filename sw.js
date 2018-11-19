@@ -23,5 +23,5 @@ self.addEventListener('fetch', function(event) {
       .then(function(response) {
         return response ? response : fetch(event.request);
       })
-  )
-})
+  );
+});
