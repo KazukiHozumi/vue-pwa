@@ -1,1 +1,1 @@
-vue.jsでWPAを初めてみる
+vue.jsでWPAをはじめてみる
